@@ -4,6 +4,7 @@
 """Program which shows how to use while loop"""
 
 __author__="José Edgardo Morales Barroso"
+__email__="joseedgardomb@gmail.com"
 #---------------------------------------------------
 
 print("\n----------------- Trying while loop ----------------\n")
@@ -14,7 +15,7 @@ except ValueError:
     ntimes = 0
 else:
     count = 1
-    print("\n Sending Message to Humanity....\n")
+    print("\nSending Message to Humanity....\n")
     while count <= ntimes:
         print("{}: Your message to the humanity is: '{}'".format(count,message))
         count+=1

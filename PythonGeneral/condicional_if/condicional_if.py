@@ -4,6 +4,7 @@
 """Program which shows the use of conditionals"""
 
 __author__ = "José Edgardo Morales Barroso"
+__email__ = "joseedgardomb@gmail.com"
 # ----------------------------------------------------
 
 print("\n----------------- Trying Conditional if ----------------\n")
